@@ -1,0 +1,40 @@
+# KiCad Temporary and Backup Files
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-backups/
+*-cache*
+*-bak
+*-bak*
+*~
+~*
+_autosave-*
+\#auto_saved_files\#
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+~*.lck
+
+# Netlist and Autorouter Files
+*.net
+*.dsn
+*.ses
+
+# Exported Files
+*.xml
+*.csv
+
+# KiCad 6.0+ Specifics
+**/*-backups/*.zip
+
+# KiCad 9.0+ Specifics
+.history/
+
+# Local Project Settings
+*.kicad_prl
+
+# Custom project-specific ignores based on current directory listing
+_restore_backup_*/
