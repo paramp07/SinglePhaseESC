@@ -125,6 +125,24 @@ At this stage, the schematic design is complete, but the PCB layout has not yet 
 
 ---
 
+## SPICE Simulation Verification
+We executed automated SPICE simulations on the **20 detected analog subcircuits** using `ngspice`.
+
+*   **Total Subcircuits:** 20
+*   **Pass:** 18
+*   **Warnings:** 1 (LC input filter convergence)
+*   **Fail:** 0
+*   **Skips:** 1
+
+### Key Simulation Details:
+*   **LC Input Filter (`L2/C9`):** Cutoff frequency simulated at **129.90 kHz** (expected 129.95 kHz, $+0.04\%$ error). The Q-factor is high (~115.3), which highlights the need for damping or using a lower cutoff frequency to suppress the switching noise of `U1` (switching at 500 kHz).
+*   **RC Low-Pass Filters:**
+    *   `R4/C14`: Cutoff frequency simulated at **158.78 Hz** (expected 159.15 Hz).
+    *   `R34/C33`: Cutoff frequency simulated at **1.59 kHz** (expected 1.59 kHz).
+    *   Voltage feedback and analog filtering stages have been verified to have correct cutoff frequencies matching their expected nominal target.
+
+---
+
 ## False Positives / Reviewer Overrides
 
 ### VM-001: 10V / 3.3V Domain Crossing on AHIGH, ALOW, BHIGH, BLOW, CHIGH, CLOW
@@ -134,7 +152,6 @@ At this stage, the schematic design is complete, but the PCB layout has not yet 
 ---
 
 ## Not Performed / Review Limits
-*   **SPICE Simulation:** Not performed — `ngspice` is not installed on the host system.
 *   **PCB Trace/DFM checks:** Not performed — PCB layout has not been started.
 *   **Gerber verification:** Not performed — no Gerber fabrication outputs exist yet.
 *   **Lifecycle audit:** Not performed — missing manufacturer part numbers on the majority of components.
