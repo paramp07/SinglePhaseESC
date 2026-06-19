@@ -2,7 +2,7 @@
 
 | Index | Qty | Value | Footprint | LCSC Part Number | Designators | Description / Specs |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | 11 | 100n |  | C14663 | C1, C3, C5, C6, C14, C17, C18, C21, C31, C32, C33 | MLCC Capacitor 100nF ±10% 50V X7R 0603 |
+| 1 | 11 | 100n | 0603 | C14663 | C1, C3, C5, C6, C14, C17, C18, C21, C31, C32, C33 | MLCC Capacitor 100nF ±10% 50V X7R 0603 |
 | 2 | 12 | 10u | 0805 | C13585 | C2, C4, C16, C22, C23, C24, C25, C26, C27, C28, C29, C30 | MLCC Capacitor 10uF ±10% 50V X7R 0805 |
 | 3 | 4 | 1u | 0603 | C15849 | C7, C8, C13, C15 | MLCC Capacitor 1uF ±10% 25V X7R 0603 |
 | 4 | 1 | 100n | 0402 | C1525 | C9 | MLCC Capacitor 100nF ±10% 50V X7R 0402 |
