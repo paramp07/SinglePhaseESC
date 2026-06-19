@@ -1,0 +1,40 @@
+name: KiCad Design Review
+on:
+  push:
+    paths: ['SingleESC.kicad_sch', 'SingleESC.kicad_pcb']
+  pull_request:
+    paths: ['SingleESC.kicad_sch', 'SingleESC.kicad_pcb']
+
+permissions:
+  contents: read
+  pull-requests: write
+  statuses: write
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Install SPICE & analysis dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ngspice poppler-utils
+
+      - name: Run KiCad Design Review
+        id: analysis
+        uses: aklofas/kicad-happy@v1
+        with:
+          schematic: 'SingleESC.kicad_sch'
+          pcb: 'SingleESC.kicad_pcb'
+          severity: 'all'
+          spice: 'true'
+
+      - name: Post report to Pull Request
+        uses: thollander/actions-comment-pull-request@v3
+        if: github.event_name == 'pull_request'
+        with:
+          file-path: ${{ steps.analysis.outputs.report-path }}
+          comment-tag: kicad-happy-review
+          mode: upsert
