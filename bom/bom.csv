@@ -1,9 +1,8 @@
 Reference,Qty,Value,Footprint,MPN,Manufacturer,LCSC,LC_Stock,Chosen_Distributor,Datasheet,Validated,DNP,Notes
 C9,1,100n,0402,CL05B104KO5NNNC,Samsung Electro-Mechanics,C1525,,,https://www.lcsc.com/datasheet/C1525.pdf,,,
-C10,1,10u,1206,CL31A106KBHNNNE,Samsung Electro-Mechanics,C13585,,,https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C13585,,,
 "C12,C11,C19,C20",4,22u,0805,CL21A226MAQNNNE,Samsung Electro-Mechanics,C45783,,,https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C45783,,,
 "C15,C8,C13,C7",4,1u,0603,CL10A105KB8NNNC,Samsung Electro-Mechanics,C15849,,,https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C15849,,,
-"C16,C4,C22,C26,C23,C28,C24,C29,C25,C27,C30,C2",12,10u,0805,CL31A106KBHNNNE,Samsung Electro-Mechanics,C13585,,,https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C13585,,,
+"C16,C4,C22,C10,C26,C23,C28,C24,C29,C25,C27,C30,C2",13,10u,1206,CL31A106KBHNNNE,Samsung Electro-Mechanics,C13585,,,https://datasheet.lcsc.com/datasheet/pdf/02336ea48ea44ca18c72517dd3cb7b47.pdf?productCode=C13585,,,
 "C21,C3,C17,C5,C18,C14,C31,C1,C33,C6,C32",11,100n,0603,CC0603KRX7R9BB104,YAGEO,C14663,,,https://datasheet.lcsc.com/datasheet/pdf/23ccee80ee542e7cf156a772bb589942.pdf?productCode=C14663,,,
 D5,1,SMBJ28CA,SMB_TVS,SMBJ28CA,R+O,C19077583,,,https://datasheet.lcsc.com/datasheet/pdf/29e006ceaae5808e6d17d021de7bda89.pdf?productCode=C19077583,,,
 "D6,D1",2,LED,0603,KT-0603R,Hubei KENTO Elec,C2286,,,https://datasheet.lcsc.com/datasheet/pdf/011ec3e8cb1e825f6961d29bc4db4c7a.pdf?productCode=C2286,,,
