@@ -5,7 +5,7 @@
 | 1 | 11 | 100n | 0603 | C14663 | C1, C3, C5, C6, C14, C17, C18, C21, C31, C32, C33 | MLCC Capacitor 100nF ±10% 50V X7R 0603 |
 | 2 | 12 | 10u | 0805 | C13585 | C2, C4, C16, C22, C23, C24, C25, C26, C27, C28, C29, C30 | MLCC Capacitor 10uF ±10% 50V X7R 0805 |
 | 3 | 4 | 1u | 0603 | C15849 | C7, C8, C13, C15 | MLCC Capacitor 1uF ±10% 25V X7R 0603 |
-| 4 | 1 | 100n | 0402 | C1525 | C9 | MLCC Capacitor 100nF ±10% 50V X7R 0402 |
+| 4 | 1 | 100n | 0402 | C1525 | C9 | MLCC Capacitor 100nF ±10% 16V X7R 0402 |
 | 5 | 1 | 10u | 1206 | C13585 | C10 | MLCC Capacitor 10uF ±10% 50V X7R 0805 |
 | 6 | 4 | 22u | 0805 | C45783 | C11, C12, C19, C20 | MLCC Capacitor 22uF ±20% 10V X5R 0805 |
 | 7 | 2 | LED | 0603 | C2286 | D1, D6 | Hubei KENTO Elec - KT-0603R |
