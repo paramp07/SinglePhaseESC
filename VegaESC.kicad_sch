@@ -10861,7 +10861,7 @@
 			(uuid "9d383331-bb22-438c-be0c-6343b9de9578")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C16")
 					(unit 1)
@@ -10973,7 +10973,7 @@
 			(uuid "89b5c2db-552b-4555-a31c-4b3e4261747d")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R32")
 					(unit 1)
@@ -11051,7 +11051,7 @@
 			(uuid "37eb3564-0e3e-4373-a757-269b3812b631")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR017")
 					(unit 1)
@@ -11163,7 +11163,7 @@
 			(uuid "24b9824f-34d4-41a0-a577-0e97aa78aa79")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R27")
 					(unit 1)
@@ -11241,7 +11241,7 @@
 			(uuid "1b36e215-ea64-42ff-937b-9af922e39aa0")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR05")
 					(unit 1)
@@ -11355,7 +11355,7 @@
 			(uuid "226d498e-95c1-45fe-9c84-4f47d6fede82")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R15")
 					(unit 1)
@@ -11479,7 +11479,7 @@
 			(uuid "166814a3-e392-4c0e-bdc4-d9a773e016b1")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D7")
 					(unit 1)
@@ -11557,7 +11557,7 @@
 			(uuid "efbe5fbc-09b9-4317-bf89-b5ac469650c1")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "TP5")
 					(unit 1)
@@ -11671,7 +11671,7 @@
 			(uuid "5b3fbe96-66fc-4eb1-8433-d3ff04a2bb2f")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C21")
 					(unit 1)
@@ -11785,7 +11785,7 @@
 			(uuid "cee68316-89fd-4a23-9201-d15b4d7335b3")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C4")
 					(unit 1)
@@ -11864,7 +11864,7 @@
 			(uuid "13ff6d43-08ba-4367-9c11-29964402922e")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#FLG01")
 					(unit 1)
@@ -11942,7 +11942,7 @@
 			(uuid "32866625-b87b-4b7e-8ec4-740a5fcc5583")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR06")
 					(unit 1)
@@ -12020,7 +12020,7 @@
 			(uuid "827fa58d-1e80-416d-bb58-783c094c7263")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR023")
 					(unit 1)
@@ -12134,7 +12134,7 @@
 			(uuid "9be80d8b-92d4-443e-8343-a88400963829")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R16")
 					(unit 1)
@@ -12224,7 +12224,7 @@
 			(uuid "4e6b93e5-9adc-4bea-9d57-f90f0fd033b9")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "J3")
 					(unit 1)
@@ -12338,7 +12338,7 @@
 			(uuid "7558f7b6-822d-4b4d-968d-4654ef56fe90")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C22")
 					(unit 1)
@@ -12452,7 +12452,7 @@
 			(uuid "b4788643-0c74-4906-a607-d44bfa08e1bd")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C3")
 					(unit 1)
@@ -12567,7 +12567,7 @@
 			(uuid "6e109149-9b2b-4d87-8d87-a12c01af92c4")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C12")
 					(unit 1)
@@ -12645,7 +12645,7 @@
 			(uuid "42b368be-f8e1-41eb-bd0b-e2f049c20e33")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR025")
 					(unit 1)
@@ -12759,7 +12759,7 @@
 			(uuid "fc170135-76c4-4a7f-94a6-25f42b2cb398")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R9")
 					(unit 1)
@@ -12876,7 +12876,7 @@
 			(uuid "399eb7c5-1924-4955-b15e-07eb6aff4ae1")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "Q5")
 					(unit 1)
@@ -12990,7 +12990,7 @@
 			(uuid "11b50986-c318-4ede-b84a-75fd682c6d14")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C17")
 					(unit 1)
@@ -13067,7 +13067,7 @@
 			(uuid "99c826c3-a00a-46a2-9851-faddfe5d5e2e")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR027")
 					(unit 1)
@@ -13145,7 +13145,7 @@
 			(uuid "781bfd16-6746-42e0-a322-a1d6f1124423")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR021")
 					(unit 1)
@@ -13223,7 +13223,7 @@
 			(uuid "d315c974-23b3-4354-8e78-1178966b1ae1")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR047")
 					(unit 1)
@@ -13337,7 +13337,7 @@
 			(uuid "29eac526-6b62-4f27-b31b-c172410db850")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R17")
 					(unit 1)
@@ -13451,7 +13451,7 @@
 			(uuid "2eaf4be2-4f76-4abe-884d-22e4629dffa9")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C5")
 					(unit 1)
@@ -13529,7 +13529,7 @@
 			(uuid "b70d7c0d-0802-4da6-8d38-9e88663984a3")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "TP1")
 					(unit 1)
@@ -13607,7 +13607,7 @@
 			(uuid "5f32c971-3073-4b58-9cde-2ed7ff26238e")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR07")
 					(unit 1)
@@ -13685,7 +13685,7 @@
 			(uuid "91a9b98f-5762-42f4-a96b-3a7473ccb075")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR041")
 					(unit 1)
@@ -13810,7 +13810,7 @@
 			(uuid "a0cc8843-d8d6-40fe-a452-869c8b02a38e")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C10")
 					(unit 1)
@@ -13934,7 +13934,7 @@
 			(uuid "9c59007b-80c7-4011-8223-0f86c304f85b")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D11")
 					(unit 1)
@@ -14051,7 +14051,7 @@
 			(uuid "688f72e1-f9a9-475f-9ad7-08ee25575d6c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "Q1")
 					(unit 1)
@@ -14166,7 +14166,7 @@
 			(uuid "d4fe5b3e-6601-40c3-8966-f38c49a8f7e6")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R35")
 					(unit 1)
@@ -14280,7 +14280,7 @@
 			(uuid "17672553-67ec-403c-9d1c-853bb3bccc4a")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C18")
 					(unit 1)
@@ -14357,7 +14357,7 @@
 			(uuid "1112dfbe-3dd6-4b16-a6e6-2e9eeb03ad79")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR04")
 					(unit 1)
@@ -14469,7 +14469,7 @@
 			(uuid "c34177ab-4cd9-4d74-ac05-20f2d4f9f2ca")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R29")
 					(unit 1)
@@ -14581,7 +14581,7 @@
 			(uuid "07b61689-a851-4677-a04b-2168131aa967")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R34")
 					(unit 1)
@@ -14659,7 +14659,7 @@
 			(uuid "8f213b33-7187-4ceb-9d18-a2d0ef5ad98f")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR037")
 					(unit 1)
@@ -14771,7 +14771,7 @@
 			(uuid "4396eda3-d7d7-440a-9720-e1d171fc78d7")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R24")
 					(unit 1)
@@ -14849,7 +14849,7 @@
 			(uuid "89c0eeba-f1dc-4441-aece-075c032bb30d")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR016")
 					(unit 1)
@@ -14925,7 +14925,7 @@
 			)
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "H4")
 					(unit 1)
@@ -15003,7 +15003,7 @@
 			(uuid "9f835a1c-3fab-4342-88ee-f86aedba8daa")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR014")
 					(unit 1)
@@ -15115,7 +15115,7 @@
 			(uuid "472e93ff-ad64-49e1-b8f6-18de4b896145")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R22")
 					(unit 1)
@@ -15193,7 +15193,7 @@
 			(uuid "46c3633d-b1a5-4180-87cf-106079f4a9df")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR022")
 					(unit 1)
@@ -15307,7 +15307,7 @@
 			(uuid "ff9fbd6a-8418-4e33-b57f-a19ebf207f32")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R18")
 					(unit 1)
@@ -15443,7 +15443,7 @@
 			(uuid "2b02735b-17fb-4153-b99e-1943f2dee8c8")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "U1")
 					(unit 1)
@@ -15521,7 +15521,7 @@
 			(uuid "9db161e5-f8ee-43dc-b317-252798b3379b")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR015")
 					(unit 1)
@@ -15599,7 +15599,7 @@
 			(uuid "a0509b5b-b4fc-464d-8d62-4f5036daa4f9")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "TP4")
 					(unit 1)
@@ -15724,7 +15724,7 @@
 			(uuid "f5ba930c-5fdb-4197-a441-b94aa236fad3")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D2")
 					(unit 1)
@@ -15800,7 +15800,7 @@
 			)
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "H3")
 					(unit 1)
@@ -15877,7 +15877,7 @@
 			(uuid "d6626ef5-5d53-4981-90f5-e90feb91f618")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#FLG04")
 					(unit 1)
@@ -16091,7 +16091,7 @@
 			(uuid "c36ef482-b52c-44f4-880c-641f85b5b3c3")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "U3")
 					(unit 1)
@@ -16205,7 +16205,7 @@
 			(uuid "f123a2ad-3342-49c2-8a5b-822378bd10ca")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C14")
 					(unit 1)
@@ -16320,7 +16320,7 @@
 			(uuid "04a15cb2-8641-4b4b-9994-7b9f64523233")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R30")
 					(unit 1)
@@ -16398,7 +16398,7 @@
 			(uuid "c9dd7ee1-6ffd-4342-87eb-1145458fb511")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR046")
 					(unit 1)
@@ -16477,7 +16477,7 @@
 			(uuid "1da8b7e0-9bd5-433a-953f-c1610e4832f5")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "J1")
 					(unit 1)
@@ -16555,7 +16555,7 @@
 			(uuid "515aff2f-c907-4fb3-a4a4-25e815887a42")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR035")
 					(unit 1)
@@ -16748,7 +16748,7 @@
 			(uuid "bde434c6-25e8-48d3-a7b4-77d83be0978f")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "U2")
 					(unit 1)
@@ -16826,7 +16826,7 @@
 			(uuid "88488d76-5389-4869-be50-9b787e2d9a74")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR013")
 					(unit 1)
@@ -16950,7 +16950,7 @@
 			(uuid "0435e705-4f6e-4042-9dd4-5273b451cba3")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D12")
 					(unit 1)
@@ -17067,7 +17067,7 @@
 			(uuid "770dd3eb-00fb-44f4-9cc4-1142f2696f4f")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "Q4")
 					(unit 1)
@@ -17145,7 +17145,7 @@
 			(uuid "b78c04f8-4ffe-4e96-b744-70c315a69b06")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR09")
 					(unit 1)
@@ -17257,7 +17257,7 @@
 			(uuid "2f28c63f-fac2-4a44-8dc4-b7fa801d6b4c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R7")
 					(unit 1)
@@ -17333,7 +17333,7 @@
 			(uuid "cc351a97-777c-4e9d-af08-6bdb52bd1dec")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "J2")
 					(unit 1)
@@ -17411,7 +17411,7 @@
 			(uuid "4b216dcf-1a4f-42b6-94e7-21be91f0956c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR08")
 					(unit 1)
@@ -17534,7 +17534,7 @@
 			(uuid "f1afd28b-bfad-434d-a63f-7f269a7159d0")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "L1")
 					(unit 1)
@@ -17648,7 +17648,7 @@
 			(uuid "4d2f9569-6e14-418b-89f5-7fc7c7269ad8")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C15")
 					(unit 1)
@@ -17763,7 +17763,7 @@
 			(uuid "0e8ba831-b2b8-4614-9c74-d8e98ff34219")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C31")
 					(unit 1)
@@ -17842,7 +17842,7 @@
 			(uuid "5c5a5193-ab69-4319-a027-a18a9994cbbb")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "J4")
 					(unit 1)
@@ -17956,7 +17956,7 @@
 			(uuid "89327cb4-1fd4-46a3-bd5a-0e1051801711")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C26")
 					(unit 1)
@@ -18071,7 +18071,7 @@
 			(uuid "b3587320-b968-4d80-a9f3-741fe7b1df12")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C11")
 					(unit 1)
@@ -18149,7 +18149,7 @@
 			(uuid "da26e59b-2d4e-44b2-bca0-9553dae38679")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR039")
 					(unit 1)
@@ -18261,7 +18261,7 @@
 			(uuid "c998d7c0-9acf-470e-a803-2ae5bce78a90")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R19")
 					(unit 1)
@@ -18339,7 +18339,7 @@
 			(uuid "5630e7bb-98b8-4a6c-9fef-04ed9f8dbf3c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR049")
 					(unit 1)
@@ -18416,7 +18416,7 @@
 			(uuid "e050990c-c0d5-4bb7-a563-2ea35e4261d8")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR030")
 					(unit 1)
@@ -18495,7 +18495,7 @@
 			(uuid "966fc1c3-7219-4416-bca7-7f862c3b1dce")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "J6")
 					(unit 1)
@@ -18609,7 +18609,7 @@
 			(uuid "c51c7a4a-dd52-441b-8233-ebb5f4c1ae95")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C23")
 					(unit 1)
@@ -18687,7 +18687,7 @@
 			(uuid "39b717d4-de0a-4739-baa7-0a2a284e92a6")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR011")
 					(unit 1)
@@ -18800,7 +18800,7 @@
 			(uuid "86b947db-503d-45f2-a8d4-907727bec5ef")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C9")
 					(unit 1)
@@ -18912,7 +18912,7 @@
 			(uuid "382c6868-97f4-4b44-82fc-e052cde4af46")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R31")
 					(unit 1)
@@ -18990,7 +18990,7 @@
 			(uuid "53fd6e8d-df19-4555-b8ca-92e775ecdf91")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR03")
 					(unit 1)
@@ -19068,7 +19068,7 @@
 			(uuid "b2e1221e-dce6-4a23-846d-58cf017f8b40")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR033")
 					(unit 1)
@@ -19180,7 +19180,7 @@
 			(uuid "2742b9ce-660f-48cf-b827-53592a917b7c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C1")
 					(unit 1)
@@ -19298,7 +19298,7 @@
 			(uuid "e7d12d66-9ae1-4b80-a884-7d5fc977d3d2")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "Q3")
 					(unit 1)
@@ -19412,7 +19412,7 @@
 			(uuid "b84d3119-1ef5-4c9a-9b52-6eae0d91625b")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C28")
 					(unit 1)
@@ -19524,7 +19524,7 @@
 			(uuid "a3965f5c-3694-45b9-9650-a4bb61be47c5")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D5")
 					(unit 1)
@@ -19649,7 +19649,7 @@
 			(uuid "d6667c57-b672-4939-899e-de7c16a9acad")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D3")
 					(unit 1)
@@ -19727,7 +19727,7 @@
 			(uuid "d4c62199-548b-4fcb-a049-261c0e19b449")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR034")
 					(unit 1)
@@ -19839,7 +19839,7 @@
 			(uuid "d16d279a-abab-417b-a348-c3cdc62fab9a")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R13")
 					(unit 1)
@@ -19954,7 +19954,7 @@
 			(uuid "46e80f1c-2575-42bb-88b6-868abfb05f14")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R5")
 					(unit 1)
@@ -20066,7 +20066,7 @@
 			(uuid "1df11a3b-7f65-41fd-ba94-6482a215d15c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R33")
 					(unit 1)
@@ -20144,7 +20144,7 @@
 			(uuid "0a6c63ee-0226-4bc0-a90b-80e626fc9b96")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR048")
 					(unit 1)
@@ -20222,7 +20222,7 @@
 			(uuid "26a978ff-513d-4f63-9229-1b2030faa063")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR038")
 					(unit 1)
@@ -20299,7 +20299,7 @@
 			(uuid "e1b9fada-c3f0-48b0-946a-9a9249acb01b")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR036")
 					(unit 1)
@@ -20413,7 +20413,7 @@
 			(uuid "4506d3d6-f739-4601-a4c8-90ed3bf84b96")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C24")
 					(unit 1)
@@ -20528,7 +20528,7 @@
 			(uuid "e1e7d9a1-48df-439c-9ded-548e20b72520")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C33")
 					(unit 1)
@@ -20606,7 +20606,7 @@
 			(uuid "a899df0d-3cfe-4256-ba0d-a54139a6b649")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR031")
 					(unit 1)
@@ -20720,7 +20720,7 @@
 			(uuid "7ba803a5-e3e7-48dd-983a-fb055e09ce45")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C29")
 					(unit 1)
@@ -20832,7 +20832,7 @@
 			(uuid "3a42d945-42ad-41f4-8383-c1a1657a2243")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C8")
 					(unit 1)
@@ -20910,7 +20910,7 @@
 			(uuid "ce4ffc05-156b-498c-934a-0bf6d864f9d6")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR040")
 					(unit 1)
@@ -20987,7 +20987,7 @@
 			(uuid "10311335-3a9c-42bc-a67e-a5547546f2ad")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR012")
 					(unit 1)
@@ -21099,7 +21099,7 @@
 			(uuid "a3bcbb35-a329-464a-b6de-87e2eb82f73f")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R8")
 					(unit 1)
@@ -21177,7 +21177,7 @@
 			(uuid "cb934d31-a1d6-44bd-bb01-0ff54e23d64b")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR042")
 					(unit 1)
@@ -21291,7 +21291,7 @@
 			(uuid "8f8e431d-af14-4cfe-829c-eab1baaced25")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C19")
 					(unit 1)
@@ -21405,7 +21405,7 @@
 			(uuid "996bcedc-b26e-43cb-bde4-d9dab381f352")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C13")
 					(unit 1)
@@ -21530,7 +21530,7 @@
 			(uuid "f5c62258-c5d0-4c62-98c4-11e301307ef2")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D6")
 					(unit 1)
@@ -21645,7 +21645,7 @@
 			(uuid "9ffb9499-4ad8-4145-aab0-74b55d6c551f")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R3")
 					(unit 1)
@@ -21759,7 +21759,7 @@
 			(uuid "08483a2d-8ee1-4dcb-97e9-a15546355bb7")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C25")
 					(unit 1)
@@ -21873,7 +21873,7 @@
 			(uuid "cda228b0-a391-457f-8818-29638b47ec7f")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C6")
 					(unit 1)
@@ -21950,7 +21950,7 @@
 			(uuid "8a8a11b1-9793-4240-9697-c1fec2800275")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR01")
 					(unit 1)
@@ -22064,7 +22064,7 @@
 			(uuid "e71081f0-acfd-4024-8de8-0f9f38708b32")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R10")
 					(unit 1)
@@ -22178,7 +22178,7 @@
 			(uuid "5dadd5b6-46ad-4413-8fa3-98a9d9ada358")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C27")
 					(unit 1)
@@ -22255,7 +22255,7 @@
 			(uuid "bbed997e-0fd7-4af9-8daa-fecb1fe9f868")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR044")
 					(unit 1)
@@ -22333,7 +22333,7 @@
 			(uuid "c7cd2f77-521d-4c75-b3bc-d5c653c976d7")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR024")
 					(unit 1)
@@ -22411,7 +22411,7 @@
 			(uuid "715063b7-2125-46d2-b03c-bcc409aa5497")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR02")
 					(unit 1)
@@ -22550,7 +22550,7 @@
 			(uuid "cecdf662-7544-4669-9fd1-eb96ec56310e")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "U4")
 					(unit 1)
@@ -22662,7 +22662,7 @@
 			(uuid "0e31a63b-65c5-48fd-a272-d218896ce1f9")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R12")
 					(unit 1)
@@ -22783,7 +22783,7 @@
 			(uuid "ddd0ad33-3819-4152-b0d0-bb8dfe6de8b4")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "U5")
 					(unit 1)
@@ -22907,7 +22907,7 @@
 			(uuid "ab27902e-d33d-40a8-9d2a-dbebb625d9e1")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D10")
 					(unit 1)
@@ -22984,7 +22984,7 @@
 			(uuid "e7cea8db-06b9-4877-a5d1-0bb96b2f357c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#FLG03")
 					(unit 1)
@@ -23096,7 +23096,7 @@
 			(uuid "8c763a53-4a0c-4358-85f0-304062658af0")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R23")
 					(unit 1)
@@ -23174,7 +23174,7 @@
 			(uuid "709ef654-3998-4631-82d4-1d059eeb20cf")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR045")
 					(unit 1)
@@ -23252,7 +23252,7 @@
 			(uuid "73ce145d-51a9-45ca-838b-d0d52866ba6c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR043")
 					(unit 1)
@@ -23364,7 +23364,7 @@
 			(uuid "1b333f1c-c6c6-4cc4-85ca-ac4e534ba72c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R14")
 					(unit 1)
@@ -23478,7 +23478,7 @@
 			(uuid "4d26110d-3867-47ae-8a13-26062fa22f85")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R1")
 					(unit 1)
@@ -23592,7 +23592,7 @@
 			(uuid "65d767d9-07e0-4195-8ba3-f494bd359089")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C30")
 					(unit 1)
@@ -23716,7 +23716,7 @@
 			(uuid "4f2a910b-60d2-4cd7-85f1-50e4c01665c7")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D8")
 					(unit 1)
@@ -23828,7 +23828,7 @@
 			(uuid "dd36188c-08d9-42bc-a864-5d92b5827dd6")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R2")
 					(unit 1)
@@ -23942,7 +23942,7 @@
 			(uuid "908db556-a0ef-4e07-91c8-cb888eb89c73")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C7")
 					(unit 1)
@@ -24092,7 +24092,7 @@
 			(uuid "87ca5d74-255d-46eb-a20e-87c337dc0f21")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "P1")
 					(unit 1)
@@ -24168,7 +24168,7 @@
 			(uuid "6a035d64-dc31-447d-8104-8ece31f3c4d7")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "J5")
 					(unit 1)
@@ -24246,7 +24246,7 @@
 			(uuid "21f2cbc1-82db-4d9c-9dcd-e18239d94161")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "TP3")
 					(unit 1)
@@ -24361,7 +24361,7 @@
 			(uuid "bfd95183-493f-4cec-bdd7-db3d77b8367a")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "L2")
 					(unit 1)
@@ -24438,7 +24438,7 @@
 			(uuid "090a595f-4577-4007-b4b5-70b6ce77369d")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR020")
 					(unit 1)
@@ -24556,7 +24556,7 @@
 			(uuid "e578add1-8fd3-45fc-826c-ec675f481ce0")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "Q6")
 					(unit 1)
@@ -24634,7 +24634,7 @@
 			(uuid "991bfdd4-d737-48c6-9211-4230550780bf")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "TP6")
 					(unit 1)
@@ -24711,7 +24711,7 @@
 			(uuid "ae057d05-63d6-454d-80bc-8cebbfbfe06b")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#FLG02")
 					(unit 1)
@@ -24836,7 +24836,7 @@
 			(uuid "7c52d73f-f14a-4a1f-9738-07d243b29913")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D1")
 					(unit 1)
@@ -24960,7 +24960,7 @@
 			(uuid "4c429b62-d674-4bc6-961d-74a9d763d5ea")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D9")
 					(unit 1)
@@ -25072,7 +25072,7 @@
 			(uuid "3acab21b-c6ec-4725-b6d3-cc87b680c6b2")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R20")
 					(unit 1)
@@ -25184,7 +25184,7 @@
 			(uuid "a847690b-ae81-4a2d-95e6-98060fd92361")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R21")
 					(unit 1)
@@ -25296,7 +25296,7 @@
 			(uuid "f8141c4e-357b-4bfb-a664-5a3e96e40044")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R28")
 					(unit 1)
@@ -25374,7 +25374,7 @@
 			(uuid "20d06acf-4070-4d64-a929-7504e0ee75e1")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR029")
 					(unit 1)
@@ -25452,7 +25452,7 @@
 			(uuid "dbc58a65-9a66-4470-b801-4a8f414e3177")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR019")
 					(unit 1)
@@ -25566,7 +25566,7 @@
 			(uuid "3a3ee531-742b-432b-8e9e-12c06c63d3a5")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R11")
 					(unit 1)
@@ -25642,7 +25642,7 @@
 			)
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "H1")
 					(unit 1)
@@ -25754,7 +25754,7 @@
 			(uuid "16823174-5f64-427f-a0fc-bb5e301f0a97")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R6")
 					(unit 1)
@@ -25866,7 +25866,7 @@
 			(uuid "f1d8740a-7031-4d5b-b2c2-9bdcaee386f8")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R4")
 					(unit 1)
@@ -25943,7 +25943,7 @@
 			(uuid "26527b72-4d13-4c58-8dd4-b727eef5fe3d")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR018")
 					(unit 1)
@@ -26056,7 +26056,7 @@
 			(uuid "3cea2460-45e9-4d59-8ea1-74aeb1c06040")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R26")
 					(unit 1)
@@ -26133,7 +26133,7 @@
 			(uuid "8a7e77b6-0f61-419e-bc6e-c95dc1cca7c9")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR032")
 					(unit 1)
@@ -26258,7 +26258,7 @@
 			(uuid "384b89f4-9153-458c-a1c6-76af1e0fde0b")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "D4")
 					(unit 1)
@@ -26372,7 +26372,7 @@
 			(uuid "246b2232-071b-4596-a7c8-771020c21f89")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C20")
 					(unit 1)
@@ -26487,7 +26487,7 @@
 			(uuid "3d1977c6-c49a-487a-8644-a25d2dc6065a")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "R25")
 					(unit 1)
@@ -26599,7 +26599,7 @@
 			(uuid "24b2e741-1003-4297-952f-385ee7869666")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C32")
 					(unit 1)
@@ -26716,7 +26716,7 @@
 			(uuid "3d16796b-d945-4048-99aa-53955cdda97c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "Q2")
 					(unit 1)
@@ -26795,7 +26795,7 @@
 			(uuid "8cf7bf24-5382-4e85-85f0-a7b0da38377d")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "TP2")
 					(unit 1)
@@ -26871,7 +26871,7 @@
 			)
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "H2")
 					(unit 1)
@@ -26948,7 +26948,7 @@
 			(uuid "1b146c3e-41ed-4994-bbef-5b6d1bc9903c")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR010")
 					(unit 1)
@@ -27026,7 +27026,7 @@
 			(uuid "f4d3c130-888b-4acd-87f4-67983c8a10cf")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR026")
 					(unit 1)
@@ -27104,7 +27104,7 @@
 			(uuid "4caac7dc-ab2d-4161-b508-e61958665183")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "#PWR028")
 					(unit 1)
@@ -27218,7 +27218,7 @@
 			(uuid "e9d50a2f-0ba3-4447-acdf-38e1ffe1f3aa")
 		)
 		(instances
-			(project "SingleESC"
+			(project "VegaESC"
 				(path "/f9dc3827-c7d6-498d-8775-55c6feab266f"
 					(reference "C2")
 					(unit 1)

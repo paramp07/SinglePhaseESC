@@ -269,9 +269,9 @@ def interactive_menu():
     print("          ESC Interactive BOM Tool v1.0")
     print("==================================================")
     
-    sch_file = input("Enter KiCad schematic file path [SingleESC.kicad_sch]: ").strip()
+    sch_file = input("Enter KiCad schematic file path [VegaESC.kicad_sch]: ").strip()
     if not sch_file:
-        sch_file = "SingleESC.kicad_sch"
+        sch_file = "VegaESC.kicad_sch"
         
     old_bom_file = input("Enter old BOM file path [bom.md]: ").strip()
     if not old_bom_file:

@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "SingleESC.kicad_pro",
+    "filename": "VegaESC.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -419,8 +419,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "SingleESC.kicad_sch",
-        "name": "SingleESC",
+        "filename": "VegaESC.kicad_sch",
+        "name": "VegaESC",
         "uuid": "f9dc3827-c7d6-498d-8775-55c6feab266f"
       }
     ],
@@ -430,7 +430,7 @@
   "sheets": [
     [
       "f9dc3827-c7d6-498d-8775-55c6feab266f",
-      "SingleESC"
+      "VegaESC"
     ]
   ],
   "text_variables": {},

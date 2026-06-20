@@ -1,6 +1,6 @@
-# SinglePhaseESC Design Review
+# VegaESC Design Review
 
-**Project:** SinglePhaseESC (KiCad 9.0+, 1 sheet, empty PCB layout)
+**Project:** VegaESC (KiCad 9.0+, 1 sheet, empty PCB layout)
 **Date:** June 19, 2026
 **Analyzers Run:** `analyze_schematic.py`, `analyze_pcb.py`, `cross_analysis.py`, `analyze_emc.py`, `analyze_thermal.py`
 

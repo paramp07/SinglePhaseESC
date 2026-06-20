@@ -1,9 +1,9 @@
 name: KiCad Design Review
 on:
   push:
-    paths: ['SingleESC.kicad_sch', 'SingleESC.kicad_pcb']
+    paths: ['VegaESC.kicad_sch', 'VegaESC.kicad_pcb']
   pull_request:
-    paths: ['SingleESC.kicad_sch', 'SingleESC.kicad_pcb']
+    paths: ['VegaESC.kicad_sch', 'VegaESC.kicad_pcb']
 
 permissions:
   contents: read
@@ -26,8 +26,8 @@ jobs:
         id: analysis
         uses: aklofas/kicad-happy@v1
         with:
-          schematic: 'SingleESC.kicad_sch'
-          pcb: 'SingleESC.kicad_pcb'
+          schematic: 'VegaESC.kicad_sch'
+          pcb: 'VegaESC.kicad_pcb'
           severity: 'all'
           spice: 'true'
 
