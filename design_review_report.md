@@ -26,7 +26,6 @@ At this stage, the schematic design is complete, but the PCB layout has not yet 
 
 | Severity | Issue | Section |
 |----------|-------|---------|
-| **ERROR** | **BOM Sourcing Block: <50% MPN Coverage** | [Sourcing Audit](#sourcing-audit) |
 | **WARNING** | **Layout Empty: 104 Components Missing from PCB** | [PCB Layout Status](#pcb-layout-status) |
 | **WARNING** | **EMI Filter Cutoff Too High** | [EMI Filter Performance](#emi-filter-performance) |
 | **WARNING** | **Connector P1 Unconnected and Floating** | [Connector Auditing](#connector-auditing) |
@@ -41,7 +40,7 @@ At this stage, the schematic design is complete, but the PCB layout has not yet 
 *   **Nets:** 83
 *   **Wires:** 137
 *   **No-Connects:** 12
-*   **Sourcing Audit:** **18.8% MPN Coverage** (6 of 32 unique BOM lines have a Manufacturer Part Number).
+*   **Sourcing Audit:** **97.0% MPN Coverage** (31 of 32 unique BOM lines have a Manufacturer Part Number). Only the generic 5-pin header `J3` is missing a manufacturer part number.
 
 ---
 
@@ -154,14 +153,14 @@ We executed automated SPICE simulations on the **20 detected analog subcircuits*
 ## Not Performed / Review Limits
 *   **PCB Trace/DFM checks:** Not performed — PCB layout has not been started.
 *   **Gerber verification:** Not performed — no Gerber fabrication outputs exist yet.
-*   **Lifecycle audit:** Not performed — missing manufacturer part numbers on the majority of components.
+*   **Lifecycle audit:** Not performed — can be run on the active MPNs before ordering.
 
 ---
 
 ## Final Verdict & Readiness Statement
-**Status: NOT READY FOR FABRICATION (BOM Sourcing Gaps & Layout Pending)**
+**Status: NOT READY FOR FABRICATION (Layout Pending)**
 
 The schematic circuit design is functionally sound and logically correct. The 10V/3.3V domain crossings to the gate driver are verified as safe. However, before the board can proceed:
-1.  **BOM Enrichment:** Populate the Manufacturer Part Numbers (MPNs) for all components (especially the gate driver, current shunt amp, and power MOSFETs).
+1.  **BOM Sourcing Verification (Complete):** All critical components (gate driver, current shunt amplifier, buck converter, LDO, microcontroller, and power MOSFETs) have been successfully mapped to valid manufacturer part numbers (MPNs). Only the generic 5-pin debug header `J3` is left without a specific manufacturer part number, which is benign for board functionality.
 2.  **EMI Filter Adjust:** Consider adjusting the input filter inductors/capacitors to lower the cutoff frequency below 100 kHz.
 3.  **Layout Phase:** Synchronize the schematic to the layout and complete the PCB trace routing, ground pour stitching, and DFM compliance sweeps.
