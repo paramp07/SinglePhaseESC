@@ -18,7 +18,7 @@
 | 14 | 1 | 600ohm@100MHz | L0603 | C1002 | L1 | Ferrite Bead 600Ω @ 100MHz 2A 0603 |
 | 15 | 1 | 15uH | IND-SMD_L7.1-W6.6 | C5349699 | L2 | Shielded Power Inductor 15uH 2.5A SMD |
 | 16 | 1 | SM08B-SRSS-TB | CONN-TH_SM08B-SRSS-TB-LF-SN | C160407 | P1 | JST Connector SM08B-SRSS-TB 8-Pin 1.0mm Pitch Side Entry |
-| 17 | 6 | Q_NMOS_GDS | POWERVDFN-8_L6.2-W5.2-P1.27-LS6.0-BL | C7527437 | Q1, Q2, Q3, Q4, Q5, Q6 | N-Channel MOSFET JMSH0401AGQ 40V 100A DFN-8 |
+| 17 | 6 | NTMFS5C430NLT1G | DFN-5_L4.9-W5.9-P1.27-LS6.2-BL | C194661 | Q1, Q2, Q3, Q4, Q5, Q6 | -55℃~+175℃ 1 N-channel 1.4mΩ@10V 110W 144pF 200A 2V 4.942nF 40V 82nC@10V DFN5(5x6) MOSFETs ROHS |
 | 18 | 4 | 3k3 | 0603 | C22978 | R1, R16, R17, R18 | Chip Resistor 3.3kΩ ±1% 1/10W 0603 |
 | 19 | 4 | 10k | 0603 | C25804 | R2, R4, R26, R30 | Chip Resistor 10kΩ ±1% 1/10W 0603 |
 | 20 | 1 | 47k | 0603 | C25811 | R3 | Chip Resistor 47kΩ ±1% 1/10W 0603 |
